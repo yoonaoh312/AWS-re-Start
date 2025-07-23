@@ -40,11 +40,6 @@
         "@first": true
     },
     "workspace": {
-        "@folders": [
-            {
-                "name": "AWS-re-Start",
-                "path": "/AWS-re-Start"
-            }
-        ]
+        "@folders": []
     }
 }
